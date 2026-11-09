@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reviewforge-reply-studio"
+version = "1.0.0"
+description = "Rule-based review analyzer and reply generator for marketplace sellers."
+requires-python = ">=3.10"
+authors = [{ name = "Kirill Sukhov" }]
+license = { text = "MIT" }
+keywords = ["marketplace", "reviews", "nlp", "automation", "support"]
+
+[project.scripts]
+reviewforge = "reviewforge.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
