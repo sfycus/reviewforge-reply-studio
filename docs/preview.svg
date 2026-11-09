@@ -1,0 +1,18 @@
+<svg width="1200" height="640" viewBox="0 0 1200 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="640" rx="32" fill="#101827"/>
+  <circle cx="1010" cy="80" r="300" fill="#38BDF8" opacity=".16"/>
+  <circle cx="110" cy="530" r="260" fill="#A78BFA" opacity=".2"/>
+  <rect x="70" y="68" width="1060" height="504" rx="24" fill="#172033" stroke="white" stroke-opacity=".12"/>
+  <text x="110" y="132" fill="#93C5FD" font-size="24" font-family="Arial" font-weight="700">REVIEWFORGE</text>
+  <text x="110" y="198" fill="#F8FAFC" font-size="58" font-family="Arial" font-weight="900">Reply Studio</text>
+  <text x="110" y="244" fill="#CBD5E1" font-size="24" font-family="Arial">Review analysis and reply drafts for marketplace sellers.</text>
+  <rect x="110" y="310" width="300" height="150" rx="16" fill="#0B1220" stroke="white" stroke-opacity=".12"/>
+  <text x="140" y="362" fill="#F8FAFC" font-size="26" font-family="Arial" font-weight="700">Sentiment</text>
+  <text x="140" y="415" fill="#F87171" font-size="44" font-family="Arial" font-weight="900">negative</text>
+  <rect x="450" y="310" width="300" height="150" rx="16" fill="#0B1220" stroke="white" stroke-opacity=".12"/>
+  <text x="480" y="362" fill="#F8FAFC" font-size="26" font-family="Arial" font-weight="700">Urgency</text>
+  <text x="480" y="415" fill="#FBBF24" font-size="44" font-family="Arial" font-weight="900">high</text>
+  <rect x="790" y="310" width="300" height="150" rx="16" fill="#0B1220" stroke="white" stroke-opacity=".12"/>
+  <text x="820" y="362" fill="#F8FAFC" font-size="26" font-family="Arial" font-weight="700">Tags</text>
+  <text x="820" y="415" fill="#A7F3D0" font-size="32" font-family="Arial" font-weight="800">quality · delivery</text>
+</svg>
